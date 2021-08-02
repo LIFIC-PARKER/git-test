@@ -6,3 +6,6 @@
 - name test 2
 
 ## merge test
+- 1
+- 2
+- 3
